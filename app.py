@@ -8,7 +8,7 @@ import tensorflow as tf
 
 
 ##Load the trained model
-model = tf.keras.models.load_model(r'E:\Desktop\sadia waheed GU1\Gen AI course 4 months\ANN-1P\env\model.h5')
+model = tf.keras.models.load_model(r'model.h5')
 
 
 ## load the encoder scaler
